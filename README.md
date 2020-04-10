@@ -6,6 +6,9 @@ It helps to overcome burden of maintaining and executing database scripts separa
 # Liquibase
 Liquibase is an open-source database-independent library for tracking, managing and applying database schema changes.(https://www.liquibase.org/)
 
+# Getting started with Liquibase
+https://www.liquibase.org/get_started/index.html
+
 # Build command
 mvn clean install
 
